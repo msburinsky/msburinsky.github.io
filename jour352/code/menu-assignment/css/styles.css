@@ -1,0 +1,93 @@
+/* font-family: "Raleway", sans-serif; */
+.apps {
+  color: #ad0303;
+  font-family: "Raleway", sans-serif;
+  letter-spacing: 3px;
+  padding-top: 25px;
+}
+.potato {
+  font-family: "Raleway", sans-serif;
+  color: #b1c9c0;
+  font-weight: 700;
+  letter-spacing: 3px;
+}
+#events{
+  border-bottom: 1px dotted;
+  border-top: 1px dotted;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+#description{
+  padding-left: 350px;
+  padding-right: 350px;
+  padding-top: 15px;
+  line-height: 160%;
+  color: #b1c9c0;
+}
+#toppings{
+  color: #ad0303;
+  font-size: 20px;
+}
+#pic{
+  width: 33%;
+  max-width: 600px;
+  padding-bottom: 15px;
+}
+#picTWO{
+  float: right;
+}
+body {
+  font-family: "Raleway", sans-serif;
+  }
+.price{
+  font-style: italic;
+}
+.margin {
+    margin-left:250px;
+    margin-right: 250px;
+  }
+.text-aligncenter {
+   text-align:center;
+ }
+.lightgray {
+   color: #808080
+   }
+.smallboys{
+  color: #d2d9d7;
+  font-style: italic;
+}
+.box{
+  background-color: #ededed;
+  padding: 10px;
+  border-style: dotted;
+  border-width: thin;
+}
+#boldbook{
+  font-weight:bold;
+}
+#Fries{
+  padding-bottom: 30px;
+}
+a{
+  color: Red;
+}
+h5{
+  font-size: 15px;
+}
+.dottedunderline {
+  border-bottom: 1px dotted;
+  border-bottom-color: grey;
+}
+
+.sides {
+  font-weight:normal;
+  line-height: .8px;
+}
+
+.kitchen {
+  color: #6d706f;
+}
+
+.tips {
+  color: #b1c9c0;
+}
