@@ -1,10 +1,61 @@
 #resumepic {
   width: 20%;
   height: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 h1 {
-  color: #33485e;
+  color: #f06288;
   font-size: 36px;
+  font-family: 'Quicksand', sans-serif;
+  text-align: center;
+}
 
+h2 {
+  color:  #751d35;
+  text-align:center;
+  font-family: 'Raleway', sans-serif;
+}
+
+h5 {
+  font-size:20px;
+  font-weight:normal;
+  text-align: center;
+}
+
+#about, #experience, #education, #skills,  {
+  color: #751d35;
+  font-family: 'Quicksand', sans-serif;
+  text-align: center;
+
+}
+
+.job {
+  color: #ed93ba;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+}
+
+.company, .date, .job-description {
+  color: #9e9d9d;
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+}
+
+ul {
+  color: #9e9d9d;
+  font-family: 'Raleway', sans-serif;
+  list-style: none;
+  text-align: center;
+}
+
+a {
+  color: #ed93ba;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  }
+div {
+  text-align: center;
 }

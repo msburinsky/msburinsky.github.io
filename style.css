@@ -6,18 +6,17 @@
 #header{
   font-family: 'Quicksand', sans-serif;
   font-weight: 400;
-  font-size: 100px;
+  font-size: 80px;
   text-align: center;
   padding-bottom: 25px;
+  color: #f06288;
 }
 
 #homeimg{
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 40%;
-  height: 200%;
-  float: inherit;
+  width: 25%;
 }
 
 #resumepic {
@@ -29,63 +28,98 @@
 #color1{
   height: 100px;
   width:100px;
-  background-color: #ffefff;
+  background-color: #751d35;
   float: left;
 }
 
 #color2{
   height: 100px;
   width: 100px;
-  background-color: #ffe14a;
+  background-color: #ed93ba;
   float: left;
 }
 
 #color3{
   height: 100px;
   width: 100px;
-  background-color: #cf6611;
+  background-color: #9e9d9d;
   float: left;
 }
 
 #color4{
   height: 100px;
   width: 100px;
-  background-color: #eb3b3b;
+  background-color: #e8e3e8;
   float: right;
 }
 
 #color5{
   height: 100px;
   width: 100px;
-  background-color: #8a5622;
+  background-color: #f06288;
   float: right;
 }
 #tab{
   text-align: center;
   width: 500px;
+  margin: auto;
+  padding-bottom: 200px;
 }
+
+#bio {
+  font-family: 'Raleway', sans-serif;
+  color: #9e9d9d;
+  font-size: 20px;
+  text-align: center;
+
+}
+
+h4{
+  font-family: 'Quicksand', sans-serif;
+  text-align: center;
+  margin: auto;
+}
+
+h5{
+  font-family: 'Quicksand', sans-serif;
+  text-align: center;
+  margin: auto;
+}
+
 h6 {
   font-family: 'Quicksand', sans-serif;
-  text-align:center;
-  font-size: 40px;
+  text-align: center;
+  font-size: 20px;
   margin: auto;
+  color: #751d35;
 }
 
 p{
   text-align: center;
   font-family: 'Raleway', sans-serif;
   padding-bottom: 50px;
+  color: #9e9d9d;
+}
+
+a {
+color: #ed93ba;
+text-align: center;
+}
+
+ul {
+  list-style: none;
 }
 
 .list{
   text-align: center;
   font-family: 'Raleway', sans-serif;
   list-style-position: inside;
-  padding-top: 50px;
+  padding-top: 40px;
 }
 
 .list2{
   text-align: center;
   font-family: 'Raleway', sans-serif;
   list-style-position: inside;
+  padding-bottom: 100px;
 }
