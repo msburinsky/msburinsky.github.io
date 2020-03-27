@@ -56,6 +56,11 @@ a {
   text-align: center;
   font-family: 'Raleway', sans-serif;
   }
+
 div {
   text-align: center;
+}
+
+body {
+  background-color: #e8e3e8;
 }

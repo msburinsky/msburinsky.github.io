@@ -3,13 +3,44 @@
   width: 900px;
 }
 
-#header{
+#banner {
+    display: block;
+    background-color: #ed93ba;
+    width: 800px;
+    margin: 90px auto;
+    padding: 50px;
+    text-transform: uppercase;
+    font-family: 'Quicksand', sans-serif ;
+    border: 1px solid #fff;
+    text-decoration: none;
+    border-radius: 90px;
+}
+
+#header {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 400;
+  font-size: 80px;
+  text-align: center;
+  padding-bottom: 25px;
+  color: #e8e3e8;
+}
+
+#header1 {
   font-family: 'Quicksand', sans-serif;
   font-weight: 400;
   font-size: 80px;
   text-align: center;
   padding-bottom: 25px;
   color: #f06288;
+  }
+
+#studentjournalist {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 400;
+  font-size: 30px;
+  text-align: center;
+  padding-bottom: 0px;
+  color: #e8e3e8;
 }
 
 #homeimg{
@@ -17,6 +48,7 @@
   margin-left: auto;
   margin-right: auto;
   width: 25%;
+  border-radius: 90px;
 }
 
 #resumepic {
@@ -25,41 +57,46 @@
   float: inherit;
 }
 
-#color1{
+#color1 {
   height: 100px;
   width:100px;
   background-color: #751d35;
   float: left;
+  border-radius: 50px;
 }
 
-#color2{
+#color2 {
   height: 100px;
   width: 100px;
   background-color: #ed93ba;
   float: left;
+  border-radius: 50px;
 }
 
-#color3{
+#color3 {
   height: 100px;
   width: 100px;
   background-color: #9e9d9d;
   float: left;
+  border-radius: 50px;
 }
 
-#color4{
+#color4 {
   height: 100px;
   width: 100px;
   background-color: #e8e3e8;
   float: right;
+  border-radius: 50px;
 }
 
-#color5{
+#color5 {
   height: 100px;
   width: 100px;
   background-color: #f06288;
   float: right;
+  border-radius: 50px;
 }
-#tab{
+#tab {
   text-align: center;
   width: 500px;
   margin: auto;
@@ -71,19 +108,20 @@
   color: #9e9d9d;
   font-size: 20px;
   text-align: center;
-
 }
 
-h4{
+h4 {
   font-family: 'Quicksand', sans-serif;
   text-align: center;
   margin: auto;
+  color: #ed93ba;
 }
 
-h5{
+h5 {
   font-family: 'Quicksand', sans-serif;
   text-align: center;
   margin: auto;
+  color: #9e9d9d;
 }
 
 h6 {
@@ -94,7 +132,7 @@ h6 {
   color: #751d35;
 }
 
-p{
+p {
   text-align: center;
   font-family: 'Raleway', sans-serif;
   padding-bottom: 50px;
@@ -110,7 +148,7 @@ ul {
   list-style: none;
 }
 
-.list{
+.list {
   text-align: center;
   font-family: 'Raleway', sans-serif;
   list-style-position: inside;
@@ -122,4 +160,34 @@ ul {
   font-family: 'Raleway', sans-serif;
   list-style-position: inside;
   padding-bottom: 100px;
+}
+
+.list1 {
+  display: inline;
+}
+
+#resumepic {
+  width: 25%;
+  height: 70%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50px;
+}
+
+.menubar {
+  color: #9e9d9d;
+  font-family: 'Raleway', sans-serif;
+  list-style: none;
+  text-align: center;
+}
+
+#menubar {
+  color: #ed93ba;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  }
+
+body {
+  background-color: #e8e3e8;
 }
