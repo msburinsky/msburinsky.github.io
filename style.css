@@ -6,7 +6,7 @@
 #banner {
     display: block;
     background-color: #ed93ba;
-    width: 800px;
+    width: 85%;
     margin: 90px auto;
     padding: 50px;
     text-transform: uppercase;
@@ -190,4 +190,9 @@ ul {
 
 body {
   background-color: #e8e3e8;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
 }
