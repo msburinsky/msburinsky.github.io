@@ -1,0 +1,73 @@
+#content {
+  margin: 0 auto;
+  width: 70%;
+
+}
+
+#bannerimage {
+  width: 100%;
+  background-image: url("workers.jpg");
+  height: 700px;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#headline {
+  text-align: center;
+  font-family: 'Playfair Display', serif;
+  font-size: 48px;
+  color: #e0372b;
+}
+
+#byline {
+  text-align: center;
+  font-family: 'Playfair Display', serif;
+  font-size: 18px;
+  font-weight: 900;
+}
+
+#date {
+  text-align: center;
+  font-family: 'Playfair Display', serif;
+  font-size: 18px;
+  color: #787373;
+}
+
+
+p {
+  font-family: 'Spartan', Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  padding: 10px;
+}
+
+img {
+  display: block;
+  margin-left:auto;
+  margin-right: auto;
+  width: 50%;
+  height: 50%;
+  max-width: 100%;
+}
+
+.caption {
+  font-size: 11px;
+  color: #807e7e;
+  text-align: center;
+  margin-left: 150px;
+  margin-right:150px;
+}
+
+.graphs {
+  display: block;
+  margin-left:auto;
+  margin-right: auto;
+  width: 100%;
+  height: 50%;
+  max-width: 100%;
+}
+
+.footer {
+  font-size: 11px;
+  color: #807e7e;
+}
